@@ -14,4 +14,4 @@ Run `ng build --prod` to build the project. The build artifacts will be stored i
 
 ## Run PWA
 
-Install http-server (or another local server) with `npm install -g http-server`, run with `http-server -p 8080 -c-1 dist/pwa-test` and then visit `http://localhost:8080`.
+Install http-server (or another local server) with `npm install -g http-server`, run with `http-server -p 8080 -c-1 dist/pwa-conf` and then visit `http://localhost:8080`.
